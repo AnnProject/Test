@@ -20,7 +20,7 @@ class Time
     private int hour;
     private int min;
     private int sec;
-
+    private int HJKLHKLJHLIHLKH;
 
     public Time ()throws WrongTimeException
     {
